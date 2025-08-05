@@ -30,8 +30,5 @@ Run the test script to summarize sample text:
 
    ```bash
    python test_summarizer.py
-
-
-   
-   
-
+         (or)
+   python app.py
