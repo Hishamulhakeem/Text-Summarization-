@@ -20,3 +20,9 @@ This project implements a simple text summarizer using the `facebook/bart-large-
    git clone https://github.com/your-username/text-summarizer.git
    cd text-summarizer
 
+## Install the required dependencies:
+   
+   ```bash
+   pip install -r requirements.txt
+
+
