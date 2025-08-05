@@ -15,14 +15,14 @@ This project implements a simple text summarizer using the `facebook/bart-large-
 
 ## 📦 Installation
 
-1. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-2. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/text-summarizer.git
    cd text-summarizer
+   
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
 ## 🧪 Usage
 
